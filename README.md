@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yanis BAYLE</h1>
-<h3 align="center">I'm a Student at IPI School (BAC+2 level)</h3>
+<h3 align="center">I'm a Student at IPI School (BAC+3 level)</h3>
 <p align="center">
   <!-- Quick links using badges -->
   <a href="https://github.com/Wolvad" target="_blank">
